@@ -1,0 +1,32 @@
+{
+  "runId": "mqjugx6g-a7357c",
+  "startedAt": "2026-06-18T18:39:46.168Z",
+  "finishedAt": "2026-06-18T18:39:46.169Z",
+  "status": "calldata-emitted",
+  "providerId": "48",
+  "distributionWallet": "0x0800fA8cd092b4AbEaC368c8907814B9Adb68Aff",
+  "token": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+  "fromEpoch": "3966",
+  "toEpoch": "3971",
+  "fromCheckpoint": "86465",
+  "toCheckpoint": "86641",
+  "fromBlock": "25344969",
+  "toBlock": "25346118",
+  "finalizedBlock": "25346189",
+  "rewardConfig": {
+    "checkpointReward": "500000000000000000000",
+    "sequencerBps": 7000,
+    "sequencerRewardPerCheckpoint": "350000000000000000000"
+  },
+  "checkpointsProposed": 0,
+  "rewardEarned": "0",
+  "commissionBps": 2500,
+  "attributionMode": "proposals",
+  "delegatorCount": 3,
+  "transfers": [],
+  "txHashes": {},
+  "totals": {
+    "totalForwarded": "0",
+    "operatorRetention": "0"
+  }
+}
